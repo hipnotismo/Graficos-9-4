@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\administrador\desktop\graficos-9-4\lib-hightscore\lib-hightscore\source.cpp(9): warning C4553: '==': el operador no tiene efecto; ¿ha pensado en '='?
+  Lib-hightScore.vcxproj -> C:\Users\Administrador\Desktop\Graficos-9-4\Lib-hightScore\Debug\Lib-hightScore.lib
